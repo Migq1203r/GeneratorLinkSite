@@ -11,3 +11,9 @@ Part OF My portfolio
 
 # Download:
 [>>>Click Here For Download The Files<<<](https://github.com/Migq1203r/GeneratorLinkSite/archive/refs/heads/main.zip)
+
+**OR**
+
+***Linux 🐧:***
+```git clone https://github.com/Migq1203r/GeneratorLinkSite/```
+
